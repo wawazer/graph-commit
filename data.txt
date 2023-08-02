@@ -11,3 +11,4 @@ arr[4]="bot: 😪"
 arr[5]="bot: 😎"
 arr[6]="bot: 🙄"
 arr[7]="bot: 👻"1 days ago <- this was the commit for the day!!
+1 days ago <- this was the commit for the day!!
